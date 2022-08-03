@@ -2,8 +2,22 @@
     font-family: arial;
     font-size: 16px;
 }
+.titulo {
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: brown;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
 .font {
     color: brown;
+    text-align: center;
+}
+.central{
+   margin-left: 27%;
+}
+.img {
+    float: right;
 }
 body {
     background-color: rgb(197, 160, 233);
@@ -16,4 +30,13 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.493);
 
+}
+#video {
+    padding: 10px;
+    margin: auto;
+    
+}
+.voltar {
+    height: 50px;
+    width: 50px;
 }
